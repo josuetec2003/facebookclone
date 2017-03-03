@@ -38,8 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'chat.apps.ChatConfig',
-    'timeline.apps.TimelineConfig',
     'photos.apps.PhotosConfig'
+    'groups.apps.GroupsConfig',
+    'timeline.apps.TimelineConfig',
+    
 
 ]
 
