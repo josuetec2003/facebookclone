@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'chat.apps.ChatConfig',
     'timeline.apps.TimelineConfig',
+    'photos.apps.PhotosConfig'
+
 ]
 
 MIDDLEWARE = [
