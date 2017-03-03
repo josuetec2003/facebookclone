@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'chat.apps.ChatConfig',
     'groups.apps.GroupsConfig',
+    'photos.apps.PhotosConfig',
 ]
 
 MIDDLEWARE = [
