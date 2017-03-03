@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'chat.apps.ChatConfig',
     'game.apps.GameConfig',
+    'groups.apps.GroupsConfig',
+    'photos.apps.PhotosConfig',
 ]
 
 MIDDLEWARE = [
